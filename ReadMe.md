@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=NIGHTZNERO&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=NIGHTZNERO)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=NIGHTZNERO&theme=radical&response=true&border=true&time=true&icon=default"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
